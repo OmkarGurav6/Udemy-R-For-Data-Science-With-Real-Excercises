@@ -1,0 +1,4 @@
+
+Drop is used to get matrix object instead of vector object in case like this a[1,] etc.
+To get matrix object use a[1,,drop=F]
+

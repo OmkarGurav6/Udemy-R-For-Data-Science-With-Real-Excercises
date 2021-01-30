@@ -1,0 +1,10 @@
+
+$ sign doesn't work for matrices but it does work for data frames.
+
+In matrix if we extract 1 row it will turn into vector.
+In dataframe it will stay as a dataframe. But when we extract 1 column it will give vector.
+To get dataframe we use drop = F parameter as we use in matrix.
+
+We can use merge function to merge dataframes.
+
+

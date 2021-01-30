@@ -1,0 +1,8 @@
+
+rep() and seq() can be used to crate vectors.
+
+Vector is basic building block of R programming.
+
+R is high level language.R is basically acting as rapper for C code or for other programming langauge
+code and it's basically calling that langauge to perform its hard labour for R.
+

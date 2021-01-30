@@ -1,0 +1,36 @@
+
+for comments use hashtag(#) in R.
+
+<- is assignment operator in R.
+
+atomic data types in R - integer,double,complex,character and logical.
+
+R by default will store interger variable as a double.
+eg x <- 34
+To store number as integer we have to put L after that number. 
+eg x <- 34L
+
+typeof(variable) is used to identify data type.
+
+spaces r not important in R.
+
+To display objects on console just type the name of objects in code and execute that.
+
+R copies comments also in console.
+
+In R we use function paste to combine two or more vectors together.
+
+We use print() to display like we use printf() in C.
+
+We can code in console of Rstudio.
+
+for loop in R is like this for(i in 2:5 ).for loop iterates 4 times (2 3 4 5 ).
+
+rnorm function generates a set of numbers which are randomly distributed according to normal distribution.
+
+rm(variable) is used to remove variable in R.
+
+It is important to note that else must be in the same line as the closing braces of the if statement.
+
+In for loop i takes values of corresponding element of x.i is not an index.
+eg for(i in x)

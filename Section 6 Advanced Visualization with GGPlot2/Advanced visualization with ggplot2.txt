@@ -1,0 +1,27 @@
+
+
+7 layers of grammmer of graphics in ggplot2
+
+1.Data     
+ 
+2.Aesthetics :  mapping between data and visual aesthetics.The visual elements of a plot, or aesthetics, 
+                include lines, points, symbols, colors, position . . . anything that you can see.
+                You use the special function aes() to set up a mapping between data and aesthetics. 
+                Each argument to aes() maps a column in your data to a specific element in your geom.
+                In ggplot2, you use the + operator to combine the different layers of the plot.
+                you use the aes() function to define the mapping between your data and your plot.
+                We can override aesthetics using aes() in other layers.
+                we can use 1.mapping using aesthetics or 2.setting.
+                Setting is easy compared to mapping.
+                If u want to set color don't use aesthetics.If u want to map a color to a variable then use 
+                aesthetics.    
+
+3.Geometrics
+
+4.Statistics
+
+5.Facets
+
+6.Coordinates
+
+7.Theme
